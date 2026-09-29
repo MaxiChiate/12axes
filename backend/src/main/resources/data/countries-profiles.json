@@ -2786,5 +2786,22 @@
       "moral": 76.4,
       "tecnologia": 63.0
     }
+  },
+  {
+    "countryId": "argentina-neuquen",
+    "vector": {
+      "estrutura": 70.0,
+      "representacao": 72.8,
+      "poder": 63.9,
+      "imigracao": 36.7,
+      "diplomacia": 37.1,
+      "intervencao": 54.1,
+      "economia": 49.6,
+      "controle": 49.7,
+      "comercio": 38.9,
+      "religiao": 59.5,
+      "moral": 58.6,
+      "tecnologia": 64.1
+    }
   }
 ]

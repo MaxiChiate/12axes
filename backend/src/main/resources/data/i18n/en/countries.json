@@ -982,5 +982,11 @@
     "name": "Buenos Aires Province (Argentina)",
     "category": "Industrial-Peronist province",
     "description": "Argentina's most populous province, home to nearly 38% of its people with La Plata as capital, holds the country's largest industrial and export base. Governed by Peronist Axel Kicillof since 2019, it defends public companies and seeks more federal revenue."
+  },
+  {
+    "id": "argentina-neuquen",
+    "name": "Neuquén (Argentina)",
+    "category": "Oil-rich provincialist province",
+    "description": "A Patagonian province bordering Chile that produces about 70% of Argentina's oil thanks to Vaca Muerta. Ruled for 60 years by the Neuquén People's Movement, it elected Rolando Figueroa in 2023, who toughened security policy."
   }
 ]

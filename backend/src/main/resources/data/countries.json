@@ -2079,5 +2079,19 @@
     "flagSourceName": "Wikimedia Commons",
     "flagSourceUrl": "https://commons.wikimedia.org/wiki/File:Bandera_de_la_Provincia_de_Buenos_Aires.svg",
     "flagNote": "Bandeira da província de Buenos Aires (Argentina), instituída pela Lei 11.997 de 1997, usada como referência visual da região."
+  },
+  {
+    "id": "argentina-neuquen",
+    "name": "Neuquén (Argentina)",
+    "category": "Província petroleira-provincialista",
+    "description": "Província patagônica na fronteira com o Chile que produz cerca de 70% do petróleo argentino graças a Vaca Muerta. Governada por 60 anos pelo Movimento Popular Neuquino, elegeu em 2023 Rolando Figueroa, que endureceu a política de segurança.",
+    "flagPath": "/countries/flags/argentina-neuquen.png",
+    "historical": false,
+    "period": "",
+    "vector": null,
+    "flagKind": null,
+    "flagSourceName": "Wikimedia Commons",
+    "flagSourceUrl": "https://commons.wikimedia.org/wiki/File:Bandera_de_la_Provincia_del_Neuquen.svg",
+    "flagNote": "Bandeira da província de Neuquén (Argentina), adotada em 1989 com o pehuén e o vulcão Lanín, usada como referência visual da região."
   }
 ]
