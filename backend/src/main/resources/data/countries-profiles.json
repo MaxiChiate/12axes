@@ -2769,5 +2769,22 @@
       "moral": 44.4,
       "tecnologia": 65.3
     }
+  },
+  {
+    "countryId": "argentina-buenos-aires",
+    "vector": {
+      "estrutura": 58.1,
+      "representacao": 72.8,
+      "poder": 48.4,
+      "imigracao": 26.0,
+      "diplomacia": 31.2,
+      "intervencao": 58.9,
+      "economia": 78.6,
+      "controle": 79.3,
+      "comercio": 69.3,
+      "religiao": 56.0,
+      "moral": 76.4,
+      "tecnologia": 63.0
+    }
   }
 ]

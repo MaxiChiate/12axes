@@ -976,5 +976,11 @@
     "name": "Córdoba (Argentina)",
     "category": "Agro-exporting federalist province",
     "description": "A central Argentine province with agribusiness, a car-making hub and a strong export profile. Governed since 1999 by a provincial Peronism distant from Kirchnerism, it demands an end to farm export taxes; La Libertad Avanza won recent national votes there."
+  },
+  {
+    "id": "argentina-buenos-aires",
+    "name": "Buenos Aires Province (Argentina)",
+    "category": "Industrial-Peronist province",
+    "description": "Argentina's most populous province, home to nearly 38% of its people with La Plata as capital, holds the country's largest industrial and export base. Governed by Peronist Axel Kicillof since 2019, it defends public companies and seeks more federal revenue."
   }
 ]
