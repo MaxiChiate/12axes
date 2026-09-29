@@ -2051,5 +2051,19 @@
     "flagSourceName": "Wikimedia Commons",
     "flagSourceUrl": "https://commons.wikimedia.org/wiki/File:Bandera_de_la_Provincia_de_Formosa.svg",
     "flagNote": "Bandeira da província de Formosa (Argentina), adotada em 1991 pela Convenção Constituinte provincial, usada como referência visual da região."
+  },
+  {
+    "id": "argentina-cordoba",
+    "name": "Córdoba (Argentina)",
+    "category": "Província agroexportadora-federalista",
+    "description": "Província do centro da Argentina com agroindústria, polo automotivo e forte perfil exportador. Governada desde 1999 por um peronismo provincial distante do kirchnerismo, pede o fim das retenções agrícolas; nas eleições nacionais recentes venceu La Libertad Avanza.",
+    "flagPath": "/countries/flags/argentina-cordoba.png",
+    "historical": false,
+    "period": "",
+    "vector": null,
+    "flagKind": null,
+    "flagSourceName": "Wikimedia Commons",
+    "flagSourceUrl": "https://commons.wikimedia.org/wiki/File:Bandera_de_la_Provincia_de_C%C3%B3rdoba_2014.svg",
+    "flagNote": "Bandeira da província de Córdoba (Argentina), adotada em 2010 e com cores fixadas pela Lei 10.193 de 2014, usada como referência visual da região."
   }
 ]

@@ -970,5 +970,11 @@
     "name": "Formosa (Argentina)",
     "category": "Peronist state-led province",
     "description": "A province in northeastern Argentina on the border with Paraguay, governed by Peronist Gildo Insfrán since 1995. It has a farm-based economy, the country's lowest export volume and heavy reliance on public employment and federal transfers."
+  },
+  {
+    "id": "argentina-cordoba",
+    "name": "Córdoba (Argentina)",
+    "category": "Agro-exporting federalist province",
+    "description": "A central Argentine province with agribusiness, a car-making hub and a strong export profile. Governed since 1999 by a provincial Peronism distant from Kirchnerism, it demands an end to farm export taxes; La Libertad Avanza won recent national votes there."
   }
 ]

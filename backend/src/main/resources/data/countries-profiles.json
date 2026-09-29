@@ -2752,5 +2752,22 @@
       "moral": 46.3,
       "tecnologia": 53.4
     }
+  },
+  {
+    "countryId": "argentina-cordoba",
+    "vector": {
+      "estrutura": 72.4,
+      "representacao": 77.5,
+      "poder": 56.8,
+      "imigracao": 41.0,
+      "diplomacia": 36.0,
+      "intervencao": 51.8,
+      "economia": 48.4,
+      "controle": 43.8,
+      "comercio": 47.2,
+      "religiao": 46.0,
+      "moral": 44.4,
+      "tecnologia": 65.3
+    }
   }
 ]

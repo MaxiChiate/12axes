@@ -625,7 +625,7 @@
     ]
   },
   "country": {
-    "totalProfiles": 162,
+    "totalProfiles": 163,
     "pending": [],
     "done": [
       "brasil",
@@ -789,7 +789,8 @@
       "coroa-de-aragao",
       "reino-da-hungria",
       "antigo-egito",
-      "argentina-formosa"
+      "argentina-formosa",
+      "argentina-cordoba"
     ]
   }
 }

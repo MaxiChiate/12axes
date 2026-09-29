@@ -1,0 +1,111 @@
+{
+  "estrutura": {
+    "personaBrief": "Córdoba é uma província federalista que nunca cedeu sua caixa de aposentadorias à Nação, litigou contra a ANSES na Corte Suprema e, com a Região Centro, reclama que aporta ao Tesouro mais do que recebe. Tem Constituição, polícia e força antinarcóticos próprias e reconhece a autonomia municipal, mas não defende secessão.",
+    "answers": {
+      "estrutura_06": "DT", "estrutura_01": "C", "estrutura_05": "CT", "estrutura_16": "D", "estrutura_04": "D",
+      "estrutura_13": "C", "estrutura_20": "DT", "estrutura_15": "D", "estrutura_18": "N", "estrutura_17": "C",
+      "estrutura_19": "C", "estrutura_12": "D", "estrutura_09": "D", "estrutura_02": "D", "estrutura_08": "D",
+      "estrutura_07": "CT", "estrutura_11": "C", "estrutura_14": "D", "estrutura_03": "C", "estrutura_10": "D"
+    }
+  },
+  "representacao": {
+    "personaBrief": "Pioneira da boleta única de papel, com a mesma força no poder há 27 anos mas sob competição eleitoral real e uma Unicameral empatada que obriga a negociar cada votação; o governo recorre à Corte Suprema para defender a institucionalidade.",
+    "answers": {
+      "representacao_01": "CT", "representacao_05": "C", "representacao_20": "DT", "representacao_11": "C", "representacao_04": "D",
+      "representacao_03": "CT", "representacao_08": "D", "representacao_12": "D", "representacao_17": "D", "representacao_14": "D",
+      "representacao_13": "D", "representacao_09": "N", "representacao_02": "D", "representacao_15": "C", "representacao_19": "CT",
+      "representacao_06": "D", "representacao_16": "DT", "representacao_18": "D", "representacao_10": "DT", "representacao_07": "CT"
+    }
+  },
+  "poder": {
+    "personaBrief": "Vários governos peronistas mantiveram um enfoque punitivo-territorial contra o narcomenudeo (desfederalização, Força Policial Antinarcotráfico, lei 10.954 dobrando promotorias), criticado por criminalizar consumidores; o Código de Convivência substituiu o antigo Código de Faltas. As leis penais, de drogas e de eutanásia são nacionais e servem de pano de fundo.",
+    "answers": {
+      "poder_03": "C", "poder_15": "D", "poder_13": "C", "poder_02": "D", "poder_12": "N",
+      "poder_17": "D", "poder_20": "D", "poder_18": "D", "poder_14": "C", "poder_16": "D",
+      "poder_11": "C", "poder_06": "D", "poder_01": "C", "poder_19": "D", "poder_04": "N",
+      "poder_10": "C", "poder_05": "C", "poder_07": "D", "poder_09": "N", "poder_08": "DT"
+    }
+  },
+  "imigracao": {
+    "personaBrief": "A imigração é baixa (~1,7% da população) e não há política provincial específica; interpretei a posição pela tradição argentina de país formado por imigrantes, convivendo com uma identidade católica-regional forte e um eleitorado mais conservador.",
+    "answers": {
+      "imigracao_09": "D", "imigracao_10": "C", "imigracao_06": "C", "imigracao_19": "D", "imigracao_04": "C",
+      "imigracao_15": "N", "imigracao_07": "N", "imigracao_20": "D", "imigracao_17": "DT", "imigracao_13": "C",
+      "imigracao_11": "C", "imigracao_08": "C", "imigracao_02": "N", "imigracao_18": "D", "imigracao_05": "D",
+      "imigracao_03": "D", "imigracao_01": "C", "imigracao_14": "C", "imigracao_16": "C", "imigracao_12": "C"
+    }
+  },
+  "diplomacia": {
+    "personaBrief": "A província não tem competências militares; interpretei como se posicionam o governo e sua tradição peronista-industrial no debate argentino: diplomacia primeiro, apoio à indústria de defesa própria, sem militarismo, com o serviço militar obrigatório já abolido e o compromisso de não proliferação.",
+    "answers": {
+      "diplomacia_02": "CT", "diplomacia_08": "N", "diplomacia_15": "C", "diplomacia_19": "D", "diplomacia_11": "C",
+      "diplomacia_05": "D", "diplomacia_12": "C", "diplomacia_10": "C", "diplomacia_17": "D", "diplomacia_03": "D",
+      "diplomacia_07": "D", "diplomacia_06": "C", "diplomacia_14": "C", "diplomacia_20": "C", "diplomacia_16": "C",
+      "diplomacia_01": "D", "diplomacia_04": "C", "diplomacia_13": "C", "diplomacia_09": "D", "diplomacia_18": "DT"
+    }
+  },
+  "intervencao": {
+    "personaBrief": "Sem competência em tratados, a projeção externa de Córdoba é comercial (ProCórdoba, missões de exportação); interpretei uma postura pragmática e firme na defesa de interesses econômicos, dentro da tradição argentina de não intervenção e neutralidade.",
+    "answers": {
+      "intervencao_01": "C", "intervencao_14": "D", "intervencao_20": "C", "intervencao_19": "C", "intervencao_08": "C",
+      "intervencao_13": "C", "intervencao_12": "N", "intervencao_04": "C", "intervencao_18": "C", "intervencao_11": "C",
+      "intervencao_05": "D", "intervencao_02": "C", "intervencao_10": "D", "intervencao_09": "C", "intervencao_16": "N",
+      "intervencao_06": "CT", "intervencao_03": "C", "intervencao_07": "D", "intervencao_17": "C", "intervencao_15": "C"
+    }
+  },
+  "economia": {
+    "personaBrief": "O governo é pró-investimento e agroexportador, mas mantém EPEC, o Banco de Córdoba e caixa de aposentadorias própria, e fala em superávit 'com a gente dentro'; não é estatista nem de mercado puro, e o eleitorado vota em LLA.",
+    "answers": {
+      "economia_05": "D", "economia_06": "DT", "economia_07": "C", "economia_13": "D", "economia_03": "C",
+      "economia_14": "C", "economia_19": "N", "economia_16": "D", "economia_17": "C", "economia_12": "N",
+      "economia_04": "D", "economia_11": "D", "economia_18": "C", "economia_15": "D", "economia_20": "N",
+      "economia_01": "DT", "economia_10": "D", "economia_09": "C", "economia_02": "C", "economia_08": "C"
+    }
+  },
+  "controle": {
+    "personaBrief": "Córdoba combate retenções e restrições que tiram renda do agro, aderiu ao RIGI e valoriza o superávit fiscal, mas pratica política industrial ativa (economia do conhecimento, polo automotivo) e planeja a energia via EPEC; a política monetária e cambial é nacional e foi lida pela posição do governo no debate argentino.",
+    "answers": {
+      "controle_05": "N", "controle_20": "C", "controle_19": "C", "controle_14": "D", "controle_07": "C",
+      "controle_04": "N", "controle_02": "C", "controle_17": "D", "controle_16": "C", "controle_10": "C",
+      "controle_06": "C", "controle_08": "N", "controle_13": "DT", "controle_01": "C", "controle_11": "C",
+      "controle_03": "D", "controle_15": "D", "controle_12": "N", "controle_18": "D", "controle_09": "D"
+    }
+  },
+  "comercio": {
+    "personaBrief": "Terceira exportadora do país, predominantemente de grãos, e hostil aos impostos de exportação; ao mesmo tempo abriga um polo automotivo e de autopeças sensível à concorrência importada, o que gera uma tensão entre abertura agroexportadora e defesa industrial.",
+    "answers": {
+      "comercio_13": "C", "comercio_06": "C", "comercio_12": "CT", "comercio_20": "C", "comercio_15": "C",
+      "comercio_19": "N", "comercio_04": "C", "comercio_17": "N", "comercio_07": "C", "comercio_02": "D",
+      "comercio_03": "C", "comercio_10": "C", "comercio_16": "N", "comercio_09": "D", "comercio_05": "D",
+      "comercio_11": "C", "comercio_01": "C", "comercio_18": "C", "comercio_08": "D", "comercio_14": "C"
+    }
+  },
+  "religiao": {
+    "personaBrief": "A Constituição invoca Deus, garante à Igreja Católica o culto público com cooperação e permite ensino religioso optativo na escola pública; convive com atores católicos com peso judicial e um governo de prática secular, numa cidade universitária de origem jesuíta.",
+    "answers": {
+      "religiao_02": "N", "religiao_11": "D", "religiao_19": "C", "religiao_03": "C", "religiao_10": "C",
+      "religiao_13": "D", "religiao_12": "D", "religiao_15": "D", "religiao_18": "D", "religiao_05": "D",
+      "religiao_01": "N", "religiao_14": "C", "religiao_06": "C", "religiao_16": "N", "religiao_08": "D",
+      "religiao_07": "D", "religiao_09": "C", "religiao_17": "D", "religiao_20": "C", "religiao_04": "D"
+    }
+  },
+  "moral": {
+    "personaBrief": "O Estado defendeu o protocolo de aborto não punível contra ação católica, dá incentivos à contratação de pessoas LGBTIQ+ e defende a Agenda 2030, mas a Constituição reconhece o papel dos pais no ensino moral e o eleitorado é mais conservador que o governo; aborto e casamento são leis nacionais.",
+    "answers": {
+      "moral_07": "C", "moral_04": "N", "moral_15": "D", "moral_12": "C", "moral_03": "C",
+      "moral_01": "C", "moral_09": "N", "moral_06": "D", "moral_19": "N", "moral_02": "C",
+      "moral_05": "D", "moral_17": "D", "moral_13": "D", "moral_11": "C", "moral_10": "N",
+      "moral_18": "D", "moral_16": "C", "moral_14": "C", "moral_08": "C", "moral_20": "C"
+    }
+  },
+  "tecnologia": {
+    "personaBrief": "Produtivismo agroindustrial (soja, milho, amendoim, lácteos com transgênicos), polo automotivo e economia do conhecimento definem a província, com conflitos ambientais documentados: a Lei de Bosques chamada de 'lei do desmatamento' e a condenação pioneira por fumigações em Ituzaingó Anexo.",
+    "answers": {
+      "tecnologia_01": "C", "tecnologia_13": "C", "tecnologia_19": "C", "tecnologia_12": "N", "tecnologia_18": "N",
+      "tecnologia_10": "N", "tecnologia_05": "CT", "tecnologia_04": "D", "tecnologia_16": "D", "tecnologia_07": "C",
+      "tecnologia_08": "D", "tecnologia_03": "C", "tecnologia_15": "C", "tecnologia_20": "D", "tecnologia_06": "D",
+      "tecnologia_09": "D", "tecnologia_17": "D", "tecnologia_02": "D", "tecnologia_14": "C", "tecnologia_11": "C"
+    }
+  },
+  "archetype": { "sociedade": "B", "poder": "C", "economia": "C", "mundo": "C", "tecnologia": "D" }
+}
