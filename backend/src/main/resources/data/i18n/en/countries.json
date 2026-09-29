@@ -964,5 +964,11 @@
     "name": "Ancient Egypt",
     "category": "Pharaonic monarchy",
     "description": "A Nile Valley civilization ruled by pharaonic dynasties through periods of unity and fragmentation. Sacred kingship, temples, and agricultural administration structured society; practices and institutions varied over three millennia."
+  },
+  {
+    "id": "argentina-formosa",
+    "name": "Formosa (Argentina)",
+    "category": "Peronist state-led province",
+    "description": "A province in northeastern Argentina on the border with Paraguay, governed by Peronist Gildo Insfrán since 1995. It has a farm-based economy, the country's lowest export volume and heavy reliance on public employment and federal transfers."
   }
 ]

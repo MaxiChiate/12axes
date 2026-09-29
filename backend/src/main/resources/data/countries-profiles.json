@@ -2735,5 +2735,22 @@
       "moral": 28.0,
       "tecnologia": 39.3
     }
+  },
+  {
+    "countryId": "argentina-formosa",
+    "vector": {
+      "estrutura": 54.5,
+      "representacao": 46.6,
+      "poder": 66.3,
+      "imigracao": 36.0,
+      "diplomacia": 34.8,
+      "intervencao": 58.9,
+      "economia": 74.5,
+      "controle": 76.6,
+      "comercio": 67.3,
+      "religiao": 35.7,
+      "moral": 46.3,
+      "tecnologia": 53.4
+    }
   }
 ]

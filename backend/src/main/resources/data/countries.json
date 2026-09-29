@@ -2037,5 +2037,19 @@
     "flagSourceName": "Wikimedia Commons",
     "flagSourceUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Egypt.svg",
     "flagNote": "Bandeira atual do Egito (desde 1984), usada aqui apenas como símbolo visual por solicitação do usuário; não existia no Antigo Egito."
+  },
+  {
+    "id": "argentina-formosa",
+    "name": "Formosa (Argentina)",
+    "category": "Província peronista-estatal",
+    "description": "Província do nordeste argentino na fronteira com o Paraguai, governada pelo peronista Gildo Insfrán desde 1995. Tem economia agropecuária, o menor volume exportador do país e forte dependência do emprego público e de transferências federais.",
+    "flagPath": "/countries/flags/argentina-formosa.png",
+    "historical": false,
+    "period": "",
+    "vector": null,
+    "flagKind": null,
+    "flagSourceName": "Wikimedia Commons",
+    "flagSourceUrl": "https://commons.wikimedia.org/wiki/File:Bandera_de_la_Provincia_de_Formosa.svg",
+    "flagNote": "Bandeira da província de Formosa (Argentina), adotada em 1991 pela Convenção Constituinte provincial, usada como referência visual da região."
   }
 ]
