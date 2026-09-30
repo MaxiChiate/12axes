@@ -1,8 +1,8 @@
 {
   "_comment": "Estado unico da auditoria pergunta-a-pergunta (240 perguntas / 12 eixos). Um objeto por catalogo. Veja README.md para o processo completo.",
-  "lastUpdated": "2026-09-28T17:01:30Z",
+  "lastUpdated": "2026-09-30T16:18:45Z",
   "personality": {
-    "totalProfiles": 378,
+    "totalProfiles": 393,
     "pending": [],
     "done": [
       "lenin",
@@ -361,7 +361,6 @@
       "franz-kafka",
       "galileu-galilei",
       "thomas-muntzer",
-      "jesus-cristo",
       "romeu-zema",
       "paulo-freire",
       "ronaldo-caiado",
@@ -382,11 +381,27 @@
       "sergio-mattarella",
       "marcelo-rebelo-de-sousa",
       "balduino-iv",
-      "otto-strasser"
+      "otto-strasser",
+      "ahmed-al-sharaa",
+      "hafez-al-assad",
+      "reza-pahlavi",
+      "mohammad-reza-pahlavi",
+      "gamal-abdel-nasser",
+      "ernst-junger",
+      "oswald-spengler",
+      "fernando-iii-de-castela",
+      "muhammad-abduh",
+      "sayyid-qutb",
+      "averroes",
+      "muhammad-ali-jinnah",
+      "saladino",
+      "alwaleed-bin-talal",
+      "narendra-modi",
+      "david-ben-gurion"
     ]
   },
   "ideology": {
-    "totalProfiles": 223,
+    "totalProfiles": 233,
     "pending": [
       "quilombismo",
       "democracia-intervencionista",
@@ -612,11 +627,21 @@
       "republicanismo-confederal",
       "socialismo-federalista",
       "socialismo-patriotico",
-      "socialismo-vietnamita"
+      "socialismo-vietnamita",
+      "socialismo-baathista",
+      "islamismo",
+      "democracia-islamica",
+      "socialismo-islamico",
+      "pan-islamismo",
+      "nacionalismo-kemalista",
+      "liberalismo-islamico",
+      "nacionalismo-budista",
+      "sionismo",
+      "sionismo-trabalhista"
     ]
   },
   "country": {
-    "totalProfiles": 153,
+    "totalProfiles": 174,
     "pending": [],
     "done": [
       "brasil",
@@ -771,7 +796,28 @@
       "parana",
       "rio-grande-do-sul",
       "minas-gerais",
-      "reino-de-jerusalem"
+      "reino-de-jerusalem",
+      "siria-de-assad",
+      "ira-pahlavi",
+      "libia-de-gaddafi",
+      "iraque-baathista",
+      "reino-da-franca",
+      "reino-de-castela",
+      "coroa-de-aragao",
+      "reino-da-hungria",
+      "antigo-egito",
+      "paquistao",
+      "egito-atual",
+      "afeganistao",
+      "bahrein",
+      "albania",
+      "marrocos",
+      "califado-abassida",
+      "india",
+      "sri-lanka",
+      "mianmar",
+      "mongolia",
+      "turquia-de-ataturk"
     ]
   }
 }

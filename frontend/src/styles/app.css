@@ -6881,6 +6881,13 @@
 }
 
 /* ── Quiz: selo do eixo (icone e cor do polo de concordancia) ───────────  */
+.question-axis-help {
+  display: flex;
+  align-self: flex-start;
+  align-items: center;
+  gap: 6px;
+  min-width: 0;
+}
 .question-axis-tag {
   display: inline-flex;
   align-self: flex-start;
@@ -6976,6 +6983,12 @@
   font-family: var(--font-display);
   font-weight: 700;
   font-size: 0.82rem;
+}
+.archetype-letter .archetype-option-ico {
+  width: 13px;
+  height: 13px;
+  fill: currentColor;
+  stroke: none;
 }
 .archetype-skip {
   margin-left: auto;

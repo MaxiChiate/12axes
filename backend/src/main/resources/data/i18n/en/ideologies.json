@@ -1,7 +1,7 @@
 [
   {
     "id": "marxismo-leninismo",
-    "name": "Marxismâ€“Leninism",
+    "name": "Marxism–Leninism",
     "category": "Radical Left",
     "description": "Revolutionary branch of Marxism that advocates the seizure of power by a vanguard party and the dictatorship of the proletariat, with a planned economy and collectivization, serving as the foundation of the communist regimes of the 20th century.",
     "phrase": "I want a society ruled by a vanguard party, with the dictatorship of the proletariat and a planned, collectivized economy."
@@ -1004,7 +1004,7 @@
     "id": "arqueofuturismo",
     "name": "Archeofuturism",
     "category": "Far-Right",
-    "description": "A doctrine coined by Guillaume Faye that fuses archaic, hierarchical and traditionalist values â€” ethnic identity, spirituality and a warrior ethos â€” with an unreserved embrace of advanced technology, arguing that an approaching civilizational collapse will force humanity to combine tribal social order with hyper-modern science.",
+    "description": "A doctrine coined by Guillaume Faye that fuses archaic, hierarchical and traditionalist values — ethnic identity, spirituality and a warrior ethos — with an unreserved embrace of advanced technology, arguing that an approaching civilizational collapse will force humanity to combine tribal social order with hyper-modern science.",
     "phrase": "I want a tribal, hierarchical order reborn from collapse, fusing archaic traditions with hyper-modern science and unrestricted technology."
   },
   {
@@ -1565,5 +1565,75 @@
     "phrase": "I want the nation liberated along Ho Chi Minh's path, led by the Party, with a socialist-oriented market and doors open to trade.",
     "countryId": "vietna",
     "personalityId": "ho-chi-minh"
+  },
+  {
+    "id": "socialismo-baathista",
+    "name": "Ba'athist Socialism",
+    "category": "Third Position",
+    "description": "An Arab current of state socialism combining pan-Arab nationalism, a vanguard party, planning, land reform and control of strategic sectors, advocating Arab unity, secularism and independence from imperialism.",
+    "phrase": "I want the Arab nation united by a revolutionary party, with state socialism, land reform, secularism and independence from imperialism."
+  },
+  {
+    "id": "islamismo",
+    "name": "Islamism",
+    "category": "Right",
+    "description": "Political movement advocating a state governed by sharia and Islamic identity, born with Hassan al-Banna's and Sayyid Qutb's Muslim Brotherhood, combining mass activism, religious social welfare and rejection of Western secularism.",
+    "phrase": "I want an Islamic society guided by sharia, with believers organized from the mosques and a zakat economy free of usury."
+  },
+  {
+    "id": "democracia-islamica",
+    "name": "Islamic Democracy",
+    "category": "Right",
+    "description": "Current reconciling Islam with electoral democracy through conservative religious parties that run in elections and support a market economy and Muslim values in public life, like Turkey's early AKP and Tunisia's Ennahda.",
+    "phrase": "I want a Muslim party that wins elections, protects family and faith in public life and makes the market economy grow."
+  },
+  {
+    "id": "socialismo-islamico",
+    "name": "Islamic Socialism",
+    "category": "Third Position",
+    "description": "Current grounding socialism in Islamic principles such as zakat, the ban on usury and Quranic social justice, combining anti-imperialism with a state-run economy, from Gaddafi's Third Universal Theory to Ali Shariati's thought.",
+    "phrase": "I want Quranic justice: the land belongs to God, zakat shares the wealth and the state runs the economy against usury and imperialism."
+  },
+  {
+    "id": "pan-islamismo",
+    "name": "Pan-Islamism",
+    "category": "Far-Right",
+    "description": "Ideology advocating the political unity of Muslims above national borders, around the ummah and the ideal of a caliphate, formulated by Jamal al-Din al-Afghani and adopted by Ottoman sultan Abdul Hamid II against European colonialism.",
+    "phrase": "I want the ummah united across borders under a caliphate, with Islamic law everywhere and the Muslim world free of Western domination."
+  },
+  {
+    "id": "nacionalismo-kemalista",
+    "name": "Kemalist Nationalism",
+    "category": "Third Position",
+    "description": "Doctrine of Mustafa Kemal Atatürk that founded modern Turkey on six arrows: republicanism, nationalism, populism, statism, laicism and reformism, imposing Westernization and state control of religion from above.",
+    "phrase": "I want a secular, modern Turkish republic, with religion under state control, one national identity and industry built by the state."
+  },
+  {
+    "id": "liberalismo-islamico",
+    "name": "Islamic Liberalism",
+    "category": "Center",
+    "description": "Reformist current that reinterprets Islam in light of reason, human rights and pluralism, advocating democracy, gender equality, a non-confessional state and freedom of conscience, in Muhammad Abduh's modernist tradition.",
+    "phrase": "I want to live my Islamic faith with reason and freedom, in a democratic, non-confessional state that ensures equality between men and women."
+  },
+  {
+    "id": "nacionalismo-budista",
+    "name": "Buddhist Nationalism",
+    "category": "Right",
+    "description": "A current fusing ethnic identity and Theravada Buddhist faith, seeing the nation as guardian of the Dharma threatened by minorities, as in Sinhalese nationalism in Sri Lanka and the Ma Ba Tha and 969 monk movements in Myanmar.",
+    "phrase": "I want a Buddhist nation that protects the Dharma and the majority, with influential monks, strong leaders, and minorities under watch."
+  },
+  {
+    "id": "sionismo",
+    "name": "Zionism",
+    "category": "Center",
+    "description": "The Jewish national movement founded by Theodor Herzl in 1897, which sought a Jewish state in the Land of Israel as a response to antisemitism and led to the creation of Israel in 1948, uniting nation, the Hebrew language, and return to the ancestral land.",
+    "phrase": "I want a democratic Jewish state in the Land of Israel that welcomes every Jew, revives Hebrew, and is a safe home for the people."
+  },
+  {
+    "id": "sionismo-trabalhista",
+    "name": "Labor Zionism",
+    "category": "Left",
+    "description": "The socialist strand of Zionism that built the State of Israel through the kibbutzim, the Histadrut labor federation, and Ben-Gurion's Mapai party, uniting Jewish nationalism, collective work on the land, and a secular welfare state.",
+    "phrase": "I want to build the Jewish nation with our own hands, in kibbutzim and strong unions, with public land and a secular welfare state."
   }
 ]

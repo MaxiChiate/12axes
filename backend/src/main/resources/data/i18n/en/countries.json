@@ -488,8 +488,8 @@
   {
     "id": "siria",
     "name": "Syria",
-    "category": "Transitional-Islamic state",
-    "description": "After the fall of Assad, Syria is undergoing a transition under forces of Islamic orientation, trying to rebuild the state after a long civil war, with challenges of national unity, security, and reconciliation among groups."
+    "category": "Post-Assad transitional republic",
+    "description": "Under President Ahmed al-Sharaa, Syria is in a transition begun after Assad’s fall, with a 2025 provisional constitution, reconstruction, and challenges of unity, security, and minority rights."
   },
   {
     "id": "filipinas",
@@ -910,5 +910,131 @@
     "name": "Kingdom of Jerusalem",
     "category": "Crusader feudal monarchy",
     "description": "A crusader state founded after the First Crusade, the Kingdom of Jerusalem was a Latin Catholic feudal monarchy, backed by the Templar and Hospitaller military orders, with powerful barons, constant holy war and a Frankish elite over a native majority."
+  },
+  {
+    "id": "siria-de-assad",
+    "name": "Assad's Syria",
+    "category": "Authoritarian Ba'athist republic",
+    "description": "Under Bashar al-Assad (2000–2024), Syria was a centralized Ba'athist regime sustained by security forces, a clientelist state economy, and alliances with Russia and Iran during the civil war."
+  },
+  {
+    "id": "ira-pahlavi",
+    "name": "Iran under the Shah",
+    "category": "Modernizing authoritarian monarchy",
+    "description": "Under Mohammad Reza Pahlavi after 1953, Iran combined authoritarian monarchy and political repression with industrialization, land reform, and women's rights in the White Revolution. Allied with the US, it funded development with oil until 1979."
+  },
+  {
+    "id": "libia-de-gaddafi",
+    "name": "Gaddafi's Libya",
+    "category": "Authoritarian socialist Jamahiriya",
+    "description": "Under Muammar Gaddafi (1969–2011), Libya nationalized oil and proclaimed the Jamahiriya's direct democracy. Power remained concentrated in Gaddafi, backed by revolutionary committees and repression of the opposition."
+  },
+  {
+    "id": "iraque-baathista",
+    "name": "Ba'athist Iraq",
+    "category": "Authoritarian Ba'athist republic",
+    "description": "Ruled by the Ba'ath Party from 1968 to 2003, Iraq combined Arab nationalism, state oil and one-party rule. Under Saddam Hussein, the regime intensified repression, fought wars against Iran and Kuwait, and faced international sanctions."
+  },
+  {
+    "id": "reino-da-franca",
+    "name": "Kingdom of France",
+    "category": "Long-lived Christian monarchy",
+    "description": "From West Francia to the monarchy’s abolition in 1792, the kingdom moved from feudal rule toward centralized absolutism. The Catholic Church, landed aristocracy, and military expansion shaped much of its history."
+  },
+  {
+    "id": "reino-de-castela",
+    "name": "Kingdom of Castile",
+    "category": "Iberian Christian monarchy",
+    "description": "United with León in 1230, Castile expanded across Iberia and later the Americas. The Crown, nobility, and Catholic Church shaped its politics; institutions changed over the nearly five centuries covered here."
+  },
+  {
+    "id": "coroa-de-aragao",
+    "name": "Crown of Aragon",
+    "category": "Christian composite monarchy",
+    "description": "A dynastic union of Aragon, Catalonia, and other Mediterranean lands whose constituent realms kept their own laws and assemblies. The Crown expanded through trade and conquest; its institutions were gradually abolished after the War of the Spanish Succession."
+  },
+  {
+    "id": "reino-da-hungria",
+    "name": "Kingdom of Hungary",
+    "category": "Central European Christian monarchy",
+    "description": "Founded under Stephen I, the kingdom passed through native dynasties, partial Ottoman rule, and Habsburg government. Nobility, Catholicism, and Hungarian autonomy played changing roles across nearly a millennium."
+  },
+  {
+    "id": "antigo-egito",
+    "name": "Ancient Egypt",
+    "category": "Pharaonic monarchy",
+    "description": "A Nile Valley civilization ruled by pharaonic dynasties through periods of unity and fragmentation. Sacred kingship, temples, and agricultural administration structured society; practices and institutions varied over three millennia."
+  },
+  {
+    "id": "paquistao",
+    "name": "Pakistan",
+    "category": "Islamic republic under military tutelage",
+    "description": "A parliamentary Islamic republic and nuclear power, Pakistan alternates civilian governments with strong army tutelage, with sharia-inspired laws, a mixed economy dependent on foreign aid, and a permanent rivalry with India."
+  },
+  {
+    "id": "egito-atual",
+    "name": "Egypt",
+    "category": "Military-statist regime",
+    "description": "An Arab presidential republic, Egypt is governed by an authoritarian regime with heavy military weight, which prioritizes security and stability, controls the opposition, and directs much of the economy through the state."
+  },
+  {
+    "id": "afeganistao",
+    "name": "Afghanistan",
+    "category": "Theocratic emirate",
+    "description": "An Islamic emirate ruled by the Taliban since 2021, Afghanistan is governed by a clerical supreme leader who imposes a strict interpretation of sharia, bars women from education and work, and faces economic crisis and isolation."
+  },
+  {
+    "id": "marrocos",
+    "name": "Morocco",
+    "category": "Parliamentary Islamic monarchy",
+    "description": "A constitutional monarchy in North Africa, Morocco has an elected parliament, but the king, Commander of the Faithful, holds real power, with official Islam, a market economy open to trade, and a claim over Western Sahara."
+  },
+  {
+    "id": "bahrein",
+    "name": "Bahrain",
+    "category": "Sunni Gulf monarchy",
+    "description": "A Persian Gulf monarchy ruled by the Sunni Al Khalifa dynasty over a Shia majority, Bahrain combines a liberalized financial hub, a parliament with limited powers, repression of the opposition since 2011, and alignment with Saudi Arabia and the US."
+  },
+  {
+    "id": "albania",
+    "name": "Albania",
+    "category": "Secular parliamentary republic",
+    "description": "A Muslim-majority parliamentary republic in the Balkans, Albania is a secular state with strong interfaith coexistence, a market economy after the end of Enver Hoxha's communist regime, NATO membership, and candidacy for the European Union."
+  },
+  {
+    "id": "califado-abassida",
+    "name": "Abbasid Caliphate",
+    "category": "Islamic caliphate",
+    "description": "A Sunni caliphate with its capital in Baghdad, the Abbasids ruled from the Maghreb to Central Asia under a caliph with religious and political authority, with a Persian-style bureaucracy, long-distance trade, and the House of Wisdom in the Islamic Golden Age."
+  },
+  {
+    "id": "india",
+    "name": "India",
+    "category": "National-conservative federal republic",
+    "description": "The world's largest democracy and most populous country, India is a federal parliamentary republic with a fast-growing market economy, great religious diversity, and the rise of Hindu nationalism under the BJP."
+  },
+  {
+    "id": "sri-lanka",
+    "name": "Sri Lanka",
+    "category": "Buddhist-national republic",
+    "description": "An island presidential republic in South Asia, Sri Lanka gives constitutional primacy to Buddhism, won the war against Tamil separatists in 2009, faced the 2022 debt crisis, and elected a left-wing coalition in 2024."
+  },
+  {
+    "id": "mianmar",
+    "name": "Myanmar",
+    "category": "Buddhist military junta",
+    "description": "A Southeast Asian country ruled by a military junta since the 2021 coup, Myanmar is in civil war against ethnic and pro-democracy militias, with official Buddhist nationalism and persecution of the Muslim Rohingya minority."
+  },
+  {
+    "id": "mongolia",
+    "name": "Mongolia",
+    "category": "Post-communist democracy",
+    "description": "A democratic republic between Russia and China, Mongolia left communist rule in 1990 and has competitive elections, a mining-dependent market economy, a nomadic tradition, and a revival of Tibetan Buddhism."
+  },
+  {
+    "id": "turquia-de-ataturk",
+    "name": "Atatürk's Turkey",
+    "category": "Single-party Kemalist republic",
+    "description": "A republic founded by Mustafa Kemal Atatürk on the ruins of the Ottoman Empire, Kemalist Turkey abolished the caliphate and imposed laicism, the Latin alphabet, women's rights, and economic statism under the single-party CHP."
   }
 ]

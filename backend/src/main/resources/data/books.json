@@ -2278,5 +2278,113 @@
       "pt": "",
       "en": ""
     }
+  },
+  {
+    "personalityId": "reza-pahlavi",
+    "title": {
+      "pt": "Winds of Change: The Future of Democracy in Iran",
+      "en": "Winds of Change: The Future of Democracy in Iran"
+    },
+    "year": 2002,
+    "url": {
+      "pt": "",
+      "en": ""
+    }
+  },
+  {
+    "personalityId": "mohammad-reza-pahlavi",
+    "title": {
+      "pt": "Answer to History",
+      "en": "Answer to History"
+    },
+    "year": 1980,
+    "url": {
+      "pt": "",
+      "en": ""
+    }
+  },
+  {
+    "personalityId": "gamal-abdel-nasser",
+    "title": {
+      "pt": "A Filosofia da Revolução",
+      "en": "The Philosophy of the Revolution"
+    },
+    "year": 1954,
+    "url": {
+      "pt": "",
+      "en": ""
+    }
+  },
+  {
+    "personalityId": "ernst-junger",
+    "title": {
+      "pt": "O Trabalhador: Domínio e Figura",
+      "en": "The Worker: Dominion and Form"
+    },
+    "year": 1932,
+    "url": {
+      "pt": "",
+      "en": ""
+    }
+  },
+  {
+    "personalityId": "oswald-spengler",
+    "title": {
+      "pt": "Prussianismo e Socialismo",
+      "en": "Prussianism and Socialism"
+    },
+    "year": 1919,
+    "url": {
+      "pt": "",
+      "en": ""
+    }
+  },
+  {
+    "personalityId": "muhammad-abduh",
+    "title": {
+      "pt": "Risalat al-Tawhid",
+      "en": "The Theology of Unity"
+    },
+    "year": 1897,
+    "url": {
+      "pt": "",
+      "en": ""
+    }
+  },
+  {
+    "personalityId": "sayyid-qutb",
+    "title": {
+      "pt": "Justiça Social no Islã",
+      "en": "Social Justice in Islam"
+    },
+    "year": 1949,
+    "url": {
+      "pt": "",
+      "en": ""
+    }
+  },
+  {
+    "personalityId": "averroes",
+    "title": {
+      "pt": "Discurso Decisivo",
+      "en": "The Decisive Treatise"
+    },
+    "year": 1179,
+    "url": {
+      "pt": "",
+      "en": ""
+    }
+  },
+  {
+    "personalityId": "david-ben-gurion",
+    "title": {
+      "pt": "Rebirth and Destiny of Israel",
+      "en": "Rebirth and Destiny of Israel"
+    },
+    "year": 1954,
+    "url": {
+      "pt": "",
+      "en": ""
+    }
   }
 ]
